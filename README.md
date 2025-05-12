@@ -20,3 +20,18 @@ this.
 
 What is the time complexity of your implementation (worst-case $\Theta$)? Add
 your answer, including your reasoning, to this markdown file.
+
+---
+
+Answer:
+
+The overall underlying process of this algorithm is still to look at every element in an array, evaluate whether the current element matches the desired element, and accumulate the number of matches. The asynchronous nature of this problem has no effect on the asymptotic complexity, so the algorithm still runs in $\Theta(n)$ time.
+
+---
+
+I learned a little about Promises from geeksforgeeks.com
+
+**I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.**
